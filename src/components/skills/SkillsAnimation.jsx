@@ -44,7 +44,7 @@ const skillsContent1 = [
 
 const skillsContent2 = [
   {
-    name: "MySQL",
+    name: "MySQL | Postgres",
     skillPercent: "80",
   },
   {

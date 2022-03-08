@@ -31,7 +31,7 @@ const Portfolio = () => {
           <li data-aos="fade-right" data-aos-duration="1200">
             <div className="list_inner video">
               <a
-                href="https://mv-commerce-client.netlify.app/"
+                href="https://github.com/philipokumu/mv-commerce-client"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="title"
@@ -108,7 +108,7 @@ const Portfolio = () => {
                   className="title"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="http://rocky-ridge-13624.herokuapp.com/"
+                  href="https://github.com/philipokumu/hr-policy-management-system"
                 >
                   <h3>HR Management System</h3>
                   <span>Made with Laravel Livewire</span>
