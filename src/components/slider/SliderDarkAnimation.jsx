@@ -94,6 +94,17 @@ const SliderDarkAnimation = () => {
                   <span className="second">See Portfolio</span>
                 </span>
               </a>
+              <a
+                className="anchor"
+                href="https://github.com/philipokumu"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="wrapper">
+                  <span className="second">Visit GitHub</span>
+                  <span className="first">Visit GitHub</span>
+                </span>
+              </a>
             </div>
             {/* End beny_tm_button */}
           </div>
