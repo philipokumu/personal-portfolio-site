@@ -29,7 +29,7 @@ const skillsContent1 = [
     skillPercent: "70",
   },
   {
-    name: "Javascript",
+    name: "Javascript | Typescript",
     skillPercent: "65",
   },
   {
