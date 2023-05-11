@@ -80,7 +80,7 @@ const AboutDarkAnimation = () => {
             </div>
             {/* End list */}
             <div className="beny_tm_button color-outline">
-              <a href="img/about/Philip Okumu - CV.pdf" download>
+              <a href="img/about/Philip Okumu_Resume.pdf" download>
                 <span className="wrapper">
                   <span className="first">Download CV</span>
                   <span className="second">Download CV</span>
